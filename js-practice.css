@@ -1,0 +1,13 @@
+.notice {
+  display: none;
+
+  margin-top: 20px;
+  padding: 24px;
+
+  background-color: #F8FBFF;
+  border-radius: 12px;
+}
+
+.notice.is-open {
+  display: block;
+}
